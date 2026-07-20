@@ -21,9 +21,19 @@ Uma aplicação web em **Python** desenvolvida com **Streamlit** que extrai auto
 
 ---
 
+## ⚙️ Como Executar o Projeto Localmente
+
+Siga os comandos abaixo no terminal para configurar e rodar a aplicação em sua máquina:
+
+```bash
+# 1. Crie o ambiente virtual
 python3 -m venv venv
+
+# 2. Ative o ambiente virtual
 source venv/bin/activate  # No Windows: .\venv\Scripts\Activate.ps1
 
+# 3. Instale as dependências
 pip install -r requirements.txt
 
+# 4. Execute a aplicação Streamlit
 streamlit run app.py

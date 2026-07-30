@@ -1,10 +1,10 @@
-# 🎥 Summarizer
+# Summarizer
 
 Uma aplicação web em **Python** desenvolvida com **Streamlit** que extrai automaticamente legendas e transcrições de vídeos do YouTube a partir da URL, oferecendo visualização instantânea em texto e opção de download.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * **Extração Inteligente de URLs:** Identifica e extrai o ID de vídeos do YouTube de forma robusta, suportando links padrão e formatos encurtados.
 * **Suporte a Múltiplos Idiomas:** Prioriza legendas em português (`pt`) com fallback automático para o inglês (`en`).
@@ -13,7 +13,7 @@ Uma aplicação web em **Python** desenvolvida com **Streamlit** que extrai auto
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.12+**
 * **Streamlit** (Framework para interface web)
@@ -21,7 +21,7 @@ Uma aplicação web em **Python** desenvolvida com **Streamlit** que extrai auto
 
 ---
 
-## ⚙️ Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 Siga os comandos abaixo no terminal para configurar e rodar a aplicação em sua máquina:
 
